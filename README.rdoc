@@ -1,3 +1,1 @@
-= Well well
-
-Test project for live tests using Github Actions and Checks API
+Hello
